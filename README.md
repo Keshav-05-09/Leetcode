@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Keshav-05-09/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/Keshav-05-09/Leetcode/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Keshav-05-09/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Keshav-05-09/Leetcode/tree/master/0136-single-number) |
 | [0204-count-primes](https://github.com/Keshav-05-09/Leetcode/tree/master/0204-count-primes) |
 | [0704-binary-search](https://github.com/Keshav-05-09/Leetcode/tree/master/0704-binary-search) |
