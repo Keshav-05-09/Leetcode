@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Keshav-05-09/Leetcode/tree/master/0001-two-sum) |
 | [0048-rotate-image](https://github.com/Keshav-05-09/Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Keshav-05-09/Leetcode/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/Keshav-05-09/Leetcode/tree/master/0118-pascals-triangle) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Keshav-05-09/Leetcode/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/Keshav-05-09/Leetcode/tree/master/0268-missing-number) |
 ## Sorting
 |  |
