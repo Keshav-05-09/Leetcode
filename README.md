@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Keshav-05-09/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Keshav-05-09/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Keshav-05-09/Leetcode/tree/master/0136-single-number) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Keshav-05-09/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Keshav-05-09/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Keshav-05-09/Leetcode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Keshav-05-09/Leetcode/tree/master/0268-missing-number) |
@@ -41,12 +42,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Keshav-05-09/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Keshav-05-09/Leetcode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/Keshav-05-09/Leetcode/tree/master/0704-binary-search) |
 ## Two Pointers
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Keshav-05-09/Leetcode/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Keshav-05-09/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Keshav-05-09/Leetcode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Keshav-05-09/Leetcode/tree/master/0344-reverse-string) |
 ## String
