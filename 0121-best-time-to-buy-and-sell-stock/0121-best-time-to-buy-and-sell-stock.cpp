@@ -5,7 +5,6 @@ public:
         for(int i =1;i<prices.size();i++){
             if(best<prices[i]){
                 best = max(best,prices[i]-bestbuy);
-
             }
             bestbuy=min(bestbuy,prices[i]);
 
