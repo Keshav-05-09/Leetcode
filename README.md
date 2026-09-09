@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Keshav-05-09/Leetcode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/Keshav-05-09/Leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Keshav-05-09/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0881-boats-to-save-people](https://github.com/Keshav-05-09/Leetcode/tree/master/0881-boats-to-save-people) |
 ## Binary Search
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Keshav-05-09/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Keshav-05-09/Leetcode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Keshav-05-09/Leetcode/tree/master/0344-reverse-string) |
+| [0881-boats-to-save-people](https://github.com/Keshav-05-09/Leetcode/tree/master/0881-boats-to-save-people) |
 ## String
 |  |
 | ------- |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Keshav-05-09/Leetcode/tree/master/0268-missing-number) |
+| [0881-boats-to-save-people](https://github.com/Keshav-05-09/Leetcode/tree/master/0881-boats-to-save-people) |
 ## Matrix
 |  |
 | ------- |
@@ -98,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Keshav-05-09/Leetcode/tree/master/0011-container-with-most-water) |
+| [0881-boats-to-save-people](https://github.com/Keshav-05-09/Leetcode/tree/master/0881-boats-to-save-people) |
 ## Newton's Method
 |  |
 | ------- |
@@ -106,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Keshav-05-09/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/Keshav-05-09/Leetcode/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
