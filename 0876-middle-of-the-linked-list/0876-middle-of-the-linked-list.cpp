@@ -34,7 +34,7 @@ public:
         while(temp1!=nullptr&&temp1->next!=nullptr){
             temp1=temp1->next->next;
             temp2=temp2->next;
-            len = len+1;
+            
     }
     return temp2;
     }
