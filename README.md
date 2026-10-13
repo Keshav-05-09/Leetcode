@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Keshav-05-09/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Keshav-05-09/Leetcode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Keshav-05-09/Leetcode/tree/master/0344-reverse-string) |
+| [0876-middle-of-the-linked-list](https://github.com/Keshav-05-09/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/Keshav-05-09/Leetcode/tree/master/0881-boats-to-save-people) |
 ## String
 |  |
@@ -118,4 +119,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/Keshav-05-09/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Keshav-05-09/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
