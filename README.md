@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Keshav-05-09/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Keshav-05-09/Leetcode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Keshav-05-09/Leetcode/tree/master/0268-missing-number) |
+| [0682-baseball-game](https://github.com/Keshav-05-09/Leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Keshav-05-09/Leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Keshav-05-09/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0881-boats-to-save-people](https://github.com/Keshav-05-09/Leetcode/tree/master/0881-boats-to-save-people) |
@@ -127,4 +128,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Keshav-05-09/Leetcode/tree/master/0141-linked-list-cycle) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/Keshav-05-09/Leetcode/tree/master/0682-baseball-game) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/Keshav-05-09/Leetcode/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
