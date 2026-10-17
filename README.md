@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Keshav-05-09/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Keshav-05-09/Leetcode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Keshav-05-09/Leetcode/tree/master/0268-missing-number) |
+| [0503-next-greater-element-ii](https://github.com/Keshav-05-09/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/Keshav-05-09/Leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Keshav-05-09/Leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Keshav-05-09/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Keshav-05-09/Leetcode/tree/master/0020-valid-parentheses) |
+| [0503-next-greater-element-ii](https://github.com/Keshav-05-09/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/Keshav-05-09/Leetcode/tree/master/0682-baseball-game) |
 ## Simulation
 |  |
@@ -144,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Keshav-05-09/Leetcode/tree/master/0020-valid-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/Keshav-05-09/Leetcode/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
