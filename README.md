@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Keshav-05-09/Leetcode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Keshav-05-09/Leetcode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Keshav-05-09/Leetcode/tree/master/0509-fibonacci-number) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Keshav-05-09/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Keshav-05-09/Leetcode/tree/master/0509-fibonacci-number) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Keshav-05-09/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Memoization
 |  |
 | ------- |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Keshav-05-09/Leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Keshav-05-09/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0881-boats-to-save-people](https://github.com/Keshav-05-09/Leetcode/tree/master/0881-boats-to-save-people) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Keshav-05-09/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Keshav-05-09/Leetcode/tree/master/0682-baseball-game) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Keshav-05-09/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -171,4 +175,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Keshav-05-09/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Keshav-05-09/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Keshav-05-09/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+## Queue
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Keshav-05-09/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
